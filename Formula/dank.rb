@@ -1,8 +1,9 @@
 class Dank < Formula
   desc "Download memes from reddit in parallel so that you can more efficiently waste time."
   homepage "https://github.com/EricLemieux/dank"
-  url "https://github.com/EricLemieux/dank/archive/v1.4.1.tar.gz"
-  sha256 "0258903683864909d96e1ce3f74483639064bd459df0469f6baf102dda277457"
+  version "v2.2.0"
+  url "https://github.com/EricLemieux/dank/archive/${version}.tar.gz"
+  sha256 "faa642e629d4f5c1904cd49e9da65e72bc70abcd4e74cbeb31845ecd346423e9"
   license "Apache-2.0"
 
   def install
