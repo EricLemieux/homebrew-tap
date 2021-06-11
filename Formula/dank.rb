@@ -3,7 +3,7 @@ class Dank < Formula
   homepage "https://github.com/EricLemieux/dank"
   version "v2.2.0"
   url "https://github.com/EricLemieux/dank/releases/download/#{version}/dank-macos.tar.gz"
-  sha256 "faa642e629d4f5c1904cd49e9da65e72bc70abcd4e74cbeb31845ecd346423e9"
+  sha256 "f6d3e91242071de18907a459190c1495934f79a674a2943a6d19e02eeea07b72"
   license "Apache-2.0"
 
   def install
